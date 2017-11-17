@@ -1,0 +1,16 @@
+{
+  "name": "profilic-client",
+  "description": "a basic http-client for use with profilic-server",
+  "version": "0.0.1",
+  "author": "lululeon <thelululeon@gmail.com>",
+  "devDependencies": {
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.11.0"
+  },
+  "dependencies": {
+    "axios": "^0.16.2"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/lululeon/profilic-client.git",
+  "license": "MIT"
+}

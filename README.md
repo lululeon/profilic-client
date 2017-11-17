@@ -1,2 +1,23 @@
 # profilic-client
-A simple client for interacting with profilic-server
+A simple axios-based http client for interacting with profilic-server.
+
+In order to use *profilic-client*, you must first install *[profilic-server](https://github.com/lululeon/profilic-server)*.
+
+# Not intended for general use
+Both profilic-client and profilic-server are packages in their complete infancy, and not recommended for production use. They are part of a learning exercise and were built as part of a prototype. Fork/use at your own risk.
+
+# Methods
+- setAuthHeader
+- authenticate
+- getProfiles
+- getProfileByUsername
+- getProfilesByUsernameList
+- updateProfile
+- updateProfileList
+- deleteProfile
+- signupNewProfile
+- login
+- logout
+- addFollowFrom
+
+Better documentation to come.
