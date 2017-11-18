@@ -1,7 +1,7 @@
 {
   "name": "profilic-client",
   "description": "a basic http-client for use with profilic-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "lululeon <thelululeon@gmail.com>",
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "build": "babel lib --out-dir dist",
-    "prepublish": "npm run build"
+    "prepare": "npm run build"
   },
   "main": "./dist/index.js",
   "repository": "https://github.com/lululeon/profilic-client.git",
