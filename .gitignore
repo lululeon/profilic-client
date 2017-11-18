@@ -22,7 +22,7 @@ $RECYCLE.BIN/
 # codebase files to ignore
 #################
 node_modules/
-public/
+dist/
 .env
 npm-debug.log
 package-lock.json
