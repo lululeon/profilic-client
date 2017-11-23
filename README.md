@@ -13,6 +13,7 @@ Both profilic-client and profilic-server are packages in their complete infancy,
 - getProfileByUsername
 - getProfilesByUsernameList
 - updateProfile
+- microUpdate
 - updateProfileList
 - deleteProfile
 - signupNewProfile
