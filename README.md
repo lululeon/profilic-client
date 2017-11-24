@@ -20,5 +20,6 @@ Both profilic-client and profilic-server are packages in their complete infancy,
 - login
 - logout
 - addFollowFrom
+- removeFollowFrom
 
 Better documentation to come.
