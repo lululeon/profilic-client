@@ -1,7 +1,7 @@
 {
   "name": "profilic-client",
   "description": "a basic http-client for use with profilic-server",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "lululeon <thelululeon@gmail.com>",
   "devDependencies": {
     "babel-cli": "^6.26.0",
