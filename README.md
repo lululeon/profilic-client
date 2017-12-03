@@ -10,6 +10,7 @@ Both profilic-client and profilic-server are packages in their complete infancy,
 - setAuthHeader
 - authenticate
 - getProfiles
+- getLatestProfiles
 - getProfileByUsername
 - getProfilesByUsernameList
 - updateProfile
